@@ -13,7 +13,8 @@ const options = {
     auto: true,
     listen: [
       {pin: 'role:lookup, cmd:seeiendom', model: 'consume'},
-      {pin: 'role:lookup, cmd:distance', model: 'consume'}
+      {pin: 'role:lookup, cmd:distance', model: 'consume'},
+      {pin: 'role:info, cmd:queue, msg:add', model: 'consume'}
     ]
   },
   dispatcher: {
