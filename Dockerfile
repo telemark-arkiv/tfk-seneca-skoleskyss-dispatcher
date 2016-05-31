@@ -1,6 +1,6 @@
 ###########################################################
 #
-# Dockerfile for tfk-seneca-walking-distance
+# Dockerfile for tfk-seneca-skoleskyss-dispatcher
 #
 ###########################################################
 
